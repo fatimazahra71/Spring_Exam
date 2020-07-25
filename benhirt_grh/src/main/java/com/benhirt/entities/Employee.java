@@ -84,4 +84,5 @@ public class Employee {
             , inverseJoinColumns={@JoinColumn(referencedColumnName="id")})
     private List<SousJacents> sousJacentsList;
 
+
 }
